@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Azat-82/Azat-82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,5 +27,3 @@ Pytest
 ### 📫 Как со мной связаться
 - **Telegram:** [@azat_05333](https://t.me)
 - **Email:** [azat.tk.82@mail.ru]
-![Bash](https://shields.io)
-![GitHub](https://shields.io)
