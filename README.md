@@ -27,3 +27,21 @@ Pytest
 ### 📫 Как со мной связаться
 - **Telegram:** [@azat_05333](https://t.me)
 - **Email:** [azat.tk.82@mail.ru]
+
+## 📁 Моё портфолио (Основные проекты)
+
+* 🥑 **[Foodgram — Продуктовый помощник](https://github.com/Azat-82/foodgram)**  
+  Онлайн-сервис и рецептурное API.  
+  *Стек:* Python, Django, Django REST Framework, Docker, Nginx, PostgreSQL, GitHub Actions (CI/CD), ВМ.
+
+* 🐱 **[Kittygram](https://github.com/Azat-82/kittygram_final)**  
+  Социальная сеть для любителей котиков с полноценным API и контейнеризацией.  
+  *Стек:* Python, Django, DRF, Docker, SQLite/PostgreSQL.
+
+* 🐋 **[Taski Docker](https://github.com/Azat-82/taski-docker)**  
+  Практический проект по контейнеризации и деплою приложения для управления задачами (Task Manager). Настройка взаимодействия контейнеров бэкенда, фронтенда и базы данных.  
+  *Стек:* Docker, Docker Compose, Nginx, ИНФРА (ВМ).
+
+* 📋 **[Taski](https://github.com/Azat-82/taski)**  
+  Менеджер задач (API-приложение) с бэкендом на Python/Django для создания, редактирования и отслеживания списков дел.  
+  *Стек:* Python, Django, REST API, Pytest.
